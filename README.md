@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm shivi anand</h1>
 <h3 align="center">A passionate Tester who like to find error on others! I mean Application</h3>
 
-- ZestMoney **Loan Application**
+
 
 - I was working in Logility Company as a Quality Analyst **Supply Chain- logility Application**
+
+- - ZestMoney **Loan Application**
 
 - Ascent Hr- Start Up company **HR application**
 
