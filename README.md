@@ -5,7 +5,7 @@
 
 - I was working in Logility Company as a Quality Analyst **Supply Chain- logility Application**
 
-- - ZestMoney **Loan Application**
+- ZestMoney **Loan Application**
 
 - Ascent Hr- Start Up company **HR application**
 
@@ -13,7 +13,7 @@
 
 - You can drop mail on **shivi.anand0309@gmail.com**
 
-- ⚡ Fun fact **I thibk I can do multipurpose work at one time**
+- ⚡ Fun fact **I think I can do multipurpose work at one time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
